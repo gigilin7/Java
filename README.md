@@ -79,4 +79,11 @@
 
 + 分頁顯示中的每筆資料都有序號可讓使用者知道看到第幾筆
 
+## 成果
++ 主選單畫面
 
+<img src="https://github.com/gigilin7/Java/blob/master/picture/%E4%B8%BB%E9%81%B8%E5%96%AE.jpg" width=300>
+
++ 書籍顯示畫面
+
+<img src="https://github.com/gigilin7/Java/blob/master/picture/%E6%9B%B8.jpg" height=200>
